@@ -15,6 +15,13 @@ formats:
   - pdf
   - epub
 
+project:
+  name: netwix
+  language: python
+
+build:
+  image: latest
+
 python:
   install:
     - requirements: docs/requirements.txt
