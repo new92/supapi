@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: supapi
-Version: 0.1.5
+Version: 0.1.6
 Summary: The supapi Python module is a versatile and powerful tool designed to simplify the process of retrieving comprehensive data about players, clans, cards, tournaments, clubs, and brawlers from three popular mobile games: Clash of Clans (CoC), Clash Royale, and Brawl Stars. This module is your all-in-one solution for accessing and analyzing game-related information, making it an invaluable resource for developers, gamers, and data enthusiasts alike.
 Home-page: https://www.github.com/new92/supapi
 Author: new92
