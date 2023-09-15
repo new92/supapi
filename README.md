@@ -2,7 +2,7 @@
 
 The supapi Python module is a versatile and powerful tool designed to simplify the process of retrieving comprehensive data about players, clans, cards, tournaments, clubs, and brawlers from three popular mobile games: Clash of Clans (CoC), Clash Royale, and Brawl Stars. This module is your all-in-one solution for accessing and analyzing game-related information, making it an invaluable resource for developers, gamers, and data enthusiasts alike.
 
-## Installation :inbox tray:
+## Installation :inbox_tray:
 
 Install supapi using pip
 
@@ -10,7 +10,7 @@ Install supapi using pip
 pip install supapi
 ```
 
-## Authors :writing hand:
+## Authors :writing_hand:
 
 - [@new92](https://www.github.com/new92)
 
@@ -22,7 +22,7 @@ See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`. For more info please check the `CODE_OF_CONDUCT.md` file
 
-## Feedback :thought balloon:
+## Feedback :thought_balloon:
 
 If you have any feedback, please reach out to us at <a href="mailto:new92github@gmail.com">this email address</a>.
 
