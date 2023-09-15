@@ -33,7 +33,7 @@ If you are reporting a bug or making a suggestion please make sure your report/s
 
 [![License](https://img.shields.io/github/license/new92/netwix?style=for-the-badge)](https://github.com/new92/netwix/blob/main/LICENSE.md)
 
-## <a href="https://github.com/new92/supapi/tree/main/supapi/examples">Examples 🚩</a>
+## <a href="https://github.com/new92/supapi/tree/main/examples">Examples 🚩</a>
 
 ## API keys 🔑
 
