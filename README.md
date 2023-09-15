@@ -43,7 +43,7 @@ If you are reporting a bug or making a suggestion please make sure your report/s
 
 #### <a href="https://developer.brawlstars.com/#/login">Brawl Stars</a>
 
-## Documentation :page facing up:
+## Documentation :page_facing_up:
 
 ### Example CoC player info
 
