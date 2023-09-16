@@ -31,7 +31,7 @@ If you are reporting a bug or making a suggestion please make sure your report/s
 
 ## License :scroll:
 
-[![License](https://img.shields.io/github/license/new92/netwix?style=for-the-badge)](https://github.com/new92/netwix/blob/main/LICENSE.md)
+[![License](https://img.shields.io/github/license/new92/supapi?style=for-the-badge)](https://github.com/new92/supapi/blob/main/LICENSE.md)
 
 ## <a href="https://github.com/new92/supapi/tree/main/examples">Examples :triangular_flag_on_post:</a>
 
