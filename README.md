@@ -20,7 +20,7 @@ Contributions are always welcome!
 
 See <a href="https://github.com/new92/supapi/blob/main/CONTRIBUTING.md">contributing.md</a> for ways to get started.
 
-Please adhere to this project's `code of conduct`. For more info please check the <a href="https://github.com/new92/supapi/blob/main/CODE_OF_CONDUCT.md">`CODE_OF_CONDUCT.md`</a> file
+Please adhere to this project's code of conduct. For more info please check the <a href="https://github.com/new92/supapi/blob/main/CODE_OF_CONDUCT.md">CODE_OF_CONDUCT.md</a> file
 
 ## Feedback :thought_balloon:
 
